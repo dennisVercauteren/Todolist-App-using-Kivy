@@ -11,7 +11,8 @@ A simple Todo List application built with [KivyMD](https://github.com/kivymd/Kiv
 
 ## Screenshots
 
-*(Screenshots can be added here if available)*
+![image](https://github.com/user-attachments/assets/7fd50a74-dc50-4677-9528-6707f4145120)
+
 
 ## Requirements
 
